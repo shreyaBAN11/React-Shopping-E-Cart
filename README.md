@@ -1,4 +1,7 @@
-# React + Vite
+# E-Commerce Application Clone
+This is an e-commerce application that was built using HTML, CSS, React. It features various sections for products, including mobile, laptop, etc. You can add products to your cart and buy them using a dummy buy page.
+# LIVE LINK
+-[CLICK HERE](http://localhost:5173/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
